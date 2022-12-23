@@ -1,0 +1,36 @@
+@media screen  and (max-width:800px){
+
+    .flex-container{
+        display: flex;
+        flex-direction: column;
+        
+        
+        
+    }
+
+    #con{
+
+        padding: 4rem;
+        padding-left: 150px;
+    }
+    #nemo{
+        padding: 20px ;
+        width: 500px;
+        height: 200px;
+    }
+    .buttonform{
+        width: 400px;
+        height: 50px;
+    }
+    
+}
+
+@media screen and (min-width:800px) and (max-width:912px) {
+    .contact{
+        width: 50%;
+    }
+    .form{
+        width: 50%;
+    }
+    
+}
