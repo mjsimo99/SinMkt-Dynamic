@@ -1,4 +1,4 @@
-# Furn – Furniture E-commerce HTML5 Template
+# Furn – Furniture E-commerce HTML5 + PHP8.2 Template
 
 ---
 
